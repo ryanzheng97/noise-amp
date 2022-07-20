@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name preamp_80db)(type KiCad)(uri ${KIPRJMOD}/preamp_80db.pretty)(options "")(descr ""))
+)
